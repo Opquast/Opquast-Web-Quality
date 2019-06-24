@@ -216,18 +216,18 @@
 
 
 ## Server and performance
-  * [] 206. The server sends information to enable the caching of contents
-  * [] 207. The server sends a 404 HTTP error code for resources not found
-  * [] 208. The server sends a personalised 404 Not found error page
-  * [] 209. The server sends a personalized 403 “Forbidden” error page.
-  * [] 210. The main navigation menu is displayed on personalized error pages.
-  * [] 211. The server compresses contents if the client accepts compressed contents
-  * [] 212. Headers sent by the server contain information pertaining to the character set used
-  * [] 213. The server respects the preferential order of languages specified in user agents
-  * [] 214. Style sheets are minified
-  * [] 215. Scripts are minified
-  * [] 216. Script functions are put into external files
-  * [] 217. The address of the site and of its subdomains works with and without a www prefix
+  * [ ] 206. The server sends information to enable the caching of contents
+  * [ ] 207. The server sends a 404 HTTP error code for resources not found
+  * [ ] 208. The server sends a personalised 404 Not found error page
+  * [ ] 209. The server sends a personalized 403 “Forbidden” error page.
+  * [ ] 210. The main navigation menu is displayed on personalized error pages.
+  * [ ] 211. The server compresses contents if the client accepts compressed contents
+  * [ ] 212. Headers sent by the server contain information pertaining to the character set used
+  * [ ] 213. The server respects the preferential order of languages specified in user agents
+  * [ ] 214. Style sheets are minified
+  * [ ] 215. Scripts are minified
+  * [ ] 216. Script functions are put into external files
+  * [ ] 217. The address of the site and of its subdomains works with and without a www prefix
 
 ## Syndication
   * [ ] 218. The source code of syndication feeds indicates their update frequency
@@ -236,8 +236,8 @@
   * [ ] 221. The site provides at least one link to each syndication feed
 
 ## Tables
-  * [] 222. Cells in data tables are linked to their headers
-  * [] 223. Captions for data tables are provided
-  * [] 224. Linearising tables used for layout does not impede the understanding of contents
-  * [] 225. Data tables are not replaced by images.
-  * [] 226. Data tables are not simulated through styled text
+  * [ ] 222. Cells in data tables are linked to their headers
+  * [ ] 223. Captions for data tables are provided
+  * [ ] 224. Linearising tables used for layout does not impede the understanding of contents
+  * [ ] 225. Data tables are not replaced by images.
+  * [ ] 226. Data tables are not simulated through styled text
