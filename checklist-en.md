@@ -1,28 +1,33 @@
-## 1. Allowed markdown syntaxes on Devchecklists:
-  * [ ] Each decorative image has an appropriate text alternative.
+## Alternative
+  * [ ] 1. Each decorative image has an appropriate text alternative.
+  * [ ] 2. Each decorative image link has an appropriate text alternative.
+  * [ ] 3. Each information-carrying image has an appropriate text alternative.
+  * [ ] 4. Included objects have an appropriate text alternative.
+  * [ ] 5. Content managed by styles has an appropriate alternative.
+  * [ ] 6. Typographic symbols have an appropriate alternative.
+  * [ ] 7. All audio and video content is accompanied by a text transcription.
+  * [ ] 8. Information is not conveyed by color alone.
+  * [ ] 9. Audio captchas can be replayed at will.
+  * [ ] 10. Captchas are accompanied by an alternative access solution.
   
-  * [ ] `##` for titles.
-  * [ ] `* [ ]` syntax to create a parent checklist.
-  * [ ] `    * [ ]` syntax to create a second-level checklist.
-  * [ ] `    * E.g.` syntax to create a second-level sample.
-  * [ ] `      * E.g.` syntax to create a third-level sample.
-  * [ ] Syntax for a simple piece of code `This is code`.
-  * [ ] Syntax for code blocks:
-    ```
-    # Code Block:
-	This is a 
-	piece of code 
-	in a block
-    ```
+  
+## Syntaxes to avoid
+## Code
+## Contact
+## Contents
+## E-Commerce
+## Public spaces
+## Files and multimedia
+## Forms
+## Hyperlinks
+## Identification
+## Internationalization
+## Mobile
+## Navigation
+## Newsletter
+## Presentation
+## Security and privacy
+## Server and performance
+## Syndication
+## Tables
 
-## 2. Syntaxes to avoid:
-  * [ ] `      * [ ]` third-level checklists.
-  * [ ] `![Alt](/image.png "Image")` images.
-  * [ ] Header syntaxes besides `## Header 2`:
-      ```
-      # Header 1
-      ### Header 3
-      #### Header 4
-      ##### Header 5
-      ###### Header 6 
-      ```
