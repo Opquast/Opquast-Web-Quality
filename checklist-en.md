@@ -1,4 +1,4 @@
-## Alternative
+## Alternatives
   * [ ] 1. Each decorative image has an appropriate text alternative.
   * [ ] 2. Each decorative image link has an appropriate text alternative.
   * [ ] 3. Each information-carrying image has an appropriate text alternative.
