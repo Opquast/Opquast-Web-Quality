@@ -147,8 +147,8 @@ The original version can be found at the following address: https://checklists.o
   * [ ] 140. JavaScript alerts and modal pop-up windows inviting the user to install a mobile app only appear once each session.
   * [ ] 141. The promotion of a mobile app does not use either JavaScript alerts or modal pop-up windows.
   * [ ] 142. The website offers one or more mechanisms for adapting to mobile devices.
-  * [ ]143. Email, URL, telephone, number, search, password, and date and time input fields are assigned an appropriate type.
-  * [ ]144. Phone numbers can be enabled using the appropriate protocol.
+  * [ ] 143. Email, URL, telephone, number, search, password, and date and time input fields are assigned an appropriate type.
+  * [ ] 144. Phone numbers can be enabled using the appropriate protocol.
 
 ## Navigation
   * [ ] 145. Each iframe has its own description.
