@@ -34,12 +34,12 @@ The original version can be found at the following address: https://checklists.o
   * [ ] 25. Each page's source code does not contain any presentational tag or attribute
 
 ## Contact
-  * [ ] 26. The site provides at least one means of contact.
-  * [ ] 27. The site provides at least two means of contact.
-  * [ ] 28. Mail and phone information for companies’ and organizations’ local branches or headquarters are provided.
-  * [ ] 29. Every information request submitted produces an acknowledgment of receipt.
-  * [ ] 30. Response times are provided for information requests.
-  * [ ] 31. The data in the site’s WHOIS information allow users to connect it with its owner.
+  * [ ] 26. The site provides at least one means of contact.
+  * [ ] 27. The site provides at least two means of contact.
+  * [ ] 28. Mail and phone information for companies’ and organizations’ local branches or headquarters are provided.
+  * [ ] 29. Every information request submitted produces an acknowledgment of receipt.
+  * [ ] 30. Response times are provided for information requests.
+  * [ ] 31. The data in the site’s WHOIS information allow users to connect it with its owner.
 
 ## Contents
   * [ ] 32. Each page provides a title that enables one to identify the site
@@ -147,8 +147,8 @@ The original version can be found at the following address: https://checklists.o
   * [ ] 140. JavaScript alerts and modal pop-up windows inviting the user to install a mobile app only appear once each session.
   * [ ] 141. The promotion of a mobile app does not use either JavaScript alerts or modal pop-up windows.
   * [ ] 142. The website offers one or more mechanisms for adapting to mobile devices.
-  * [ ]143. Email, URL, telephone, number, search, password, and date and time input fields are assigned an appropriate type.
-  * [ ]144. Phone numbers can be enabled using the appropriate protocol.
+  * [ ] 143. Email, URL, telephone, number, search, password, and date and time input fields are assigned an appropriate type.
+  * [ ] 144. Phone numbers can be enabled using the appropriate protocol.
 
 ## Navigation
   * [ ] 145. Each iframe has its own description.
