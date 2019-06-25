@@ -4,7 +4,6 @@ The original version can be found at the following address: https://checklists.o
 
 
 ## Alternatives
->>>>>>> origin/master
   * [ ] 1. Each decorative image has an appropriate text alternative.
   * [ ] 2. Each decorative image link has an appropriate text alternative.
   * [ ] 3. Each information-carrying image has an appropriate text alternative.
