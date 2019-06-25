@@ -9,7 +9,7 @@
    * [ ] 8. L'information n'est pas véhiculée uniquement par la couleur. 
    * [ ] 9. Les captchas audio peuvent être réécoutés à volonté. 
    * [ ] 10. Les captchas sont accompagnés d'une solution alternative d'accès. 
-##  . Code 
+## Code 
    * [ ] 11. Le code source de chaque page débute par une déclaration de type de document dont la syntaxe est conforme à celles recommandées par le W3C. 
    * [ ] 12. Chaque identifiant HTML n'est utilisé qu'une seule fois par page. 
    * [ ] 13. Le contenu de chaque page est organisé selon une structure de titres et sous-titres hiérarchisée. 
@@ -25,7 +25,7 @@
    * [ ] 23. La première occurrence d'une abréviation ou d'un acronyme dans le corps de chaque page donne accès à sa signification. 
    * [ ] 24. Le code source de chaque page ne contient pas d'éléments détournés à des fins de présentation. 
    * [ ] 25. Le code source de chaque page ne contient pas d'éléments ou d'attributs de présentation. 
-##  . Contact 
+##  Contact 
    * [ ] 26. Le site propose au moins un moyen de contact. 
    * [ ] 27. Le site propose au moins deux moyens de contact. 
    * [ ] 28. Les coordonnées postales et téléphoniques de la représentation locale ou du siège social des sociétés et organisations sont indiquées. 
@@ -40,7 +40,7 @@
    * [ ] 36. Le site fournit aux utilisateurs la possibilité de connaître les nouveaux contenus ou services. 
    * [ ] 37. Si le site propose un espace personnel ou abonné, il est possible de sauvegarder les contenus personnels dans un format standard. 
    * [ ] 38. Un lexique ou un glossaire adapté au public visé explique le vocabulaire sectoriel ou technique. 
-##  . E-Commerce 
+## E-Commerce 
    * [ ] 39. L'achat d'un produit ou service est possible sans création de compte. 
    * [ ] 40. Aucun produit ni service annexe n'est ajouté au panier de commande sans que cette action soit déclenchée par l'utilisateur. 
    * [ ] 41. La disponibilité des produits est indiquée avant la validation définitive de la commande. 
@@ -73,7 +73,7 @@
    * [ ] 68. Un courriel indiquant la référence de la transaction et les données de la commande est envoyé suite à la validation. 
    * [ ] 69. Chaque réclamation fait l'objet d'un accusé de réception. 
    * [ ] 70. Le site propose au moins un moyen de contacter le responsable des réclamations. 
-##  . Espaces publics 
+##  Espaces publics 
    * [ ] 71. Le site propose au moins un moyen de contacter le modérateur des espaces publics. 
    * [ ] 72. Les espaces publics proposent au moins un moyen de signaler les abus. 
    * [ ] 73. Les conditions de modération des espaces publics sont indiquées. 
@@ -89,7 +89,7 @@
    * [ ] 82. Les sons et vidéos sont déclenchés par l'utilisateur. 
    * [ ] 83. Le texte des documents PDF internes est sélectionnable. 
    * [ ] 84. Les documents PDF internes sont dotés d'une structure de titres. 
-##  . Formulaires 
+## Formulaires 
    * [ ] 85. Chaque champ de formulaire est associé dans le code source à une étiquette qui lui est propre. 
    * [ ] 86. Les informations complétant l'étiquette d'un champ sont associées à celui-ci dans le code-source 
    * [ ] 87. L'étiquette de chaque champ de formulaire indique si la saisie est obligatoire. 
@@ -112,7 +112,7 @@
    * [ ] 104. Le copier coller est possible dans les champs de formulaire. 
    * [ ] 105. Les éléments d'une liste déroulante qui peuvent être regroupés le sont de manière appropriée. 
    * [ ] 106. Les listes d'options de formulaires sont présentées dans un ordre identifiable. 
-##  . Hyperliens 
+## Hyperliens 
    * [ ] 107. Chaque lien est doté d'un intitulé dans le code source. 
    * [ ] 108. Le soulignement est réservé aux hyperliens. 
    * [ ] 109. Les hyperliens sont visuellement différenciés du reste du contenu. 
@@ -124,7 +124,7 @@
    * [ ] 115. Le libellé de chaque hyperlien décrit sa fonction ou la nature du contenu vers lequel il pointe. 
    * [ ] 116. Les hyperliens consécutifs sont séparés visuellement. 
    * [ ] 117. Les hyperliens internes et externes sont différenciés. 
-##  . Identification 
+## Identification 
    * [ ] 118. L'identité de l'auteur, de la société ou de l'organisation est indiquée. 
    * [ ] 119. L'identité de la personne ou du service responsable des contenus est indiquée. 
    * [ ] 120. La page d'accueil expose la nature des contenus et services proposés. 
@@ -137,7 +137,7 @@
    * [ ] 127. L'extension utilisée est cohérente avec l'identité, l'activité, la zone géographique couverte ou avec le nom de domaine. 
    * [ ] 128. Le site propose un fichier sitemap indiquant les contenus à explorer. 
    * [ ] 129. Si le site déclare respecter un ou plusieurs standards ou référentiels, un lien est proposé vers chacun d'entre eux. 
-##  . Internationalisation 
+## Internationalisation 
    * [ ] 130. L'indicatif international est disponible pour tous les numéros de téléphone. 
    * [ ] 131. Le pays est précisé pour toutes les adresses postales. 
    * [ ] 132. Le code source de chaque page indique la langue principale du contenu. 
@@ -145,7 +145,7 @@
    * [ ] 134. Chaque changement de langue est signalé. 
    * [ ] 135. Les liens d'accès aux versions traduites pointent directement vers la traduction de la page courante. 
    * [ ] 136. Les liens vers les versions équivalentes de la page ou du site sont rédigés dans leur langue cible. 
-##  . Mobile 
+## Mobile 
    * [ ] 137. Le serveur ne force pas la redirection de la version desktop vers la version mobile. 
    * [ ] 138. Il est possible de basculer depuis chaque page entre les versions mobile et desktop du site. 
    * [ ] 139. Le site ne bloque pas les fonctionnalités de zoom du navigateur. 
@@ -154,7 +154,7 @@
    * [ ] 142. Le site propose un ou plusieurs mécanismes dédiés à l'adaptation aux terminaux mobiles. 
    * [ ] 143. Les champs de saisie de type mail, URL, téléphone, nombre, recherche, mots de passe, heure et date sont dotés du type approprié. 
    * [ ] 144. Les numéros de téléphone sont activables via le protocole approprié. 
-##  . Navigation 
+## Navigation 
    * [ ] 145. Chaque iframe est doté d'une description. 
    * [ ] 146. Le site n'emploie pas la technique des jeux de cadres. 
    * [ ] 147. Il est possible de revenir à la page d'accueil depuis toutes les pages. 
@@ -179,7 +179,7 @@
    * [ ] 166. Les liens provoquant l'ouverture d'un logiciel externe ont un libellé explicite. 
    * [ ] 167. Si le site n'est pas réservé à un public spécifique, l'accès aux contenus est immédiat. 
    * [ ] 168. Chaque page contient des liens d'accès rapide placés au début du code source. 
-##  . Newsletter 
+## Newsletter 
    * [ ] 169. Un lien de désinscription est présent dans chaque newsletter. 
    * [ ] 170. La désinscription depuis une newsletter ne demande pas de confirmation par courriel. 
    * [ ] 171. L'inscription aux newsletters est soumise à un processus de confirmation. 
@@ -187,7 +187,7 @@
    * [ ] 173. La dernière newsletter envoyée est disponible en ligne. 
    * [ ] 174. Les archives de newsletters sont disponibles en ligne. 
    * [ ] 175. La fréquence d'envoi des newsletters est consultable avant l'abonnement. 
-##  . Présentation 
+## Présentation 
    * [ ] 176. La charte graphique est cohérente sur l'ensemble du site. 
    * [ ] 177. La taille des polices destinées à l'affichage écran est exprimée en taille variable et non en taille fixe. 
    * [ ] 178. Le site propose des styles dédiés à l'impression. 
@@ -197,7 +197,7 @@
    * [ ] 182. Les mises en majuscules à des fins décoratives sont effectuées à l'aide des styles 
    * [ ] 183. Les styles ne justifient pas le texte. 
    * [ ] 184. Un contenu n'est pas désigné uniquement par sa forme ou par sa position à l'écran. 
-##  . Sécurité et confidentialité 
+## Sécurité et confidentialité 
    * [ ] 185. L'identité des prestataires impliqués dans les transactions est précisée. 
    * [ ] 186. La politique de confidentialité et de respect de la vie privée est accessible depuis toutes les pages. 
    * [ ] 187. Le site propose une procédure de réinitialisation du mot de passe. 
@@ -219,7 +219,7 @@
    * [ ] 203. Le serveur envoie les informations d'activation de protection cross site scripting. 
    * [ ] 204. Le serveur envoie les informations indiquant les domaines autorisés à intégrer ses pages dans des cadres. 
    * [ ] 205. Le site propose un mécanisme de sécurité permettant de restreindre l'origine des contenus. 
-##  . Serveur et Performances 
+## Serveur et Performances 
    * [ ] 206. Le serveur envoie les informations permettant la mise en cache des contenus. 
    * [ ] 207. Le serveur envoie un code http 404 pour les ressources non trouvées. 
    * [ ] 208. Le serveur envoie une page d'erreur 404 personnalisée. 
@@ -232,12 +232,12 @@
    * [ ] 215. Les scripts du site sont minifiés. 
    * [ ] 216. Les fonctions de scripts internes au site sont placées dans des fichiers externes. 
    * [ ] 217. L'adresse du site et de ses sous-domaines fonctionnent avec ou sans préfixe www. 
-##  . Syndication 
+## Syndication 
    * [ ] 218. Le code source des fils de syndication indique leur fréquence de mise à jour. 
    * [ ] 219. Les fils de syndication sont détectables par les agents utilisateurs. 
    * [ ] 220. Les hyperliens contenus dans les fils de syndication sont absolus. 
    * [ ] 221. Le site propose au moins un lien vers chaque fil de syndication. 
-##  . Tableaux 
+## Tableaux 
    * [ ] 222. Les cellules des tableaux de données sont reliées à leurs en-têtes. 
    * [ ] 223. Les titres des tableaux de données sont renseignés. 
    * [ ] 224. La linéarisation des tableaux utilisés pour la mise en page ne nuit pas à la compréhension des contenus. 
