@@ -35,11 +35,11 @@ The original version can be found at the following address: https://checklists.o
 
 ## Contact
   * [ ] 26. The site provides at least one means of contact.
-  * [ ] 27. The site provides at least two means of contact.
-  * [ ] 28. Mail and phone information for companies’ and organizations’ local branches or headquarters are provided.
-  * [ ] 29. Every information request submitted produces an acknowledgment of receipt.
-  * [ ] 30. Response times are provided for information requests.
-  * [ ] 31. The data in the site’s WHOIS information allow users to connect it with its owner.
+  * [ ] 27. The site provides at least two means of contact.
+  * [ ] 28. Mail and phone information for companies’ and organizations’ local branches or headquarters are provided.
+  * [ ] 29. Every information request submitted produces an acknowledgment of receipt.
+  * [ ] 30. Response times are provided for information requests.
+  * [ ] 31. The data in the site’s WHOIS information allow users to connect it with its owner.
 
 ## Contents
   * [ ] 32. Each page provides a title that enables one to identify the site
