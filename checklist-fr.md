@@ -1,6 +1,7 @@
 La check-list Qualité Web s'adresse à tous les professionnels qui créent des sites Web. Elle est conçue de façon collaborative par une communauté de professionnels animée par la société française Opquast (Open Quality Standards). la check-list est diffusée sous licence Creative commons BY-SA. la version originale est disponible à l'adresse : 
 https://checklists.opquast.com/fr/qualiteweb/
 
+
 ## Alternatives 
    * [ ] 1. Chaque image décorative est dotée d'une alternative textuelle appropriée. 
    * [ ] 2. Chaque image-lien est dotée d'une alternative textuelle appropriée. 
