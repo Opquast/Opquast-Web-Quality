@@ -1,6 +1,5 @@
 The Web Quality Checklist (V3) is intended for all professionals who create websites. It is designed in a collaborative way by a community of Web professionals led by the French company Opquast (Open Quality Standards). The checklist is released under a creative Commons BY-SA license. The original version can be found at the following address: https://checklists.opquast.com/en/qualiteweb/
 
-
 ## Alternatives
   * [ ] 1. Each decorative image has an appropriate text alternative.
   * [ ] 2. Each decorative image link has an appropriate text alternative.
